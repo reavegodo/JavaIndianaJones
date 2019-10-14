@@ -1,0 +1,21 @@
+
+	public class CandyCount {
+
+	private static final boolean Vue = true;
+	public static void main(String[] args) {
+
+    	String nomFilm = "Indiana Jones and the Last Crusade";
+    	boolean VuePasVue = Vue;
+    	int annéeSorti = 1989;
+    	float noteFilm = (float) 8.2;
+    	
+    	System.out.println(nomFilm);
+    	System.out.println(VuePasVue);
+    	System.out.println(annéeSorti);
+    	System.out.println(noteFilm);
+        
+    }
+     
+}
+	
+	
